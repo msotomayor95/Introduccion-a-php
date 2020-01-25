@@ -22,7 +22,7 @@
         <img id="profile-picture" src="https://ui-avatars.com/api/?name=John+Doe&size=255" alt="">
       </div>
       <div class="col">
-        <h1>Marco Sotomayor</h1>
+        <h1><?php echo 'Marco Sotomayor';?></h1>
         <h2>PHP Developer</h2>
         <ul>
           <li>Mail: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="563e3335223924163b373f3a7835393b">[email&#160;protected]</a></li>
