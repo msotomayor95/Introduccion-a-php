@@ -17,4 +17,5 @@ class Job extends BaseElement {
   
     return "Job duration: $years years and $extraMonths months";
   }
+  
 }
