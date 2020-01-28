@@ -2,8 +2,6 @@
 
 namespace App\Models;
 
-require_once 'BaseElement.php';
-
 class Proyect extends BaseElement{
   public function getDuration(){
     $years = floor($this->months/12);
